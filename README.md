@@ -1,5 +1,5 @@
 # Owl keychain
-An owl keychain in clean gold on whatevery you choose as background astetic.
+An owl keychain in clean gold on whatevery you choose as background aesthetic.
 
 <img width="1073" height="928" alt="trJbn7WPdK" src="https://github.com/user-attachments/assets/b8fcca4a-e440-40e1-b228-2d67b489d9ec" />
 
